@@ -7,9 +7,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-15 Juni 202
-
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+15 Juni 2022
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 
